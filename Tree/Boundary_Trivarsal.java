@@ -1,5 +1,4 @@
-
-    class Solution
+ class Solution
     {
         
         public void leftNode(Node root,ArrayList<Integer> ans){
